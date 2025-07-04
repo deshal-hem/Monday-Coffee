@@ -30,3 +30,6 @@ The aim of this project is to analyze the sales data of Monday Coffee, an Indian
 
 9. **Monthly Sales Growth**  
    Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+
+## Solutions
+The solutions to be above questions can be found in the monday_coffee_solutions SQL file, which contains the SQL code used for querying.
